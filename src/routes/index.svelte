@@ -16,7 +16,7 @@
 </script>
 
 <main
-  class="flex min-h-screen flex-col lg:flex-row items-center lg:justify-evenly py-6 max-w-screen-2xl mx-auto w-full"
+  class="flex min-h-screen flex-col lg:flex-row items-center lg:justify-evenly py-6 max-w-screen-2xl mx-auto w-full relative"
 >
   <div
     class="relative grid lg:flex lg:flex-col mx-6 mb-[clamp(8.00rem,calc(4.44rem+17.78vw),10.00rem)] lg:mb-0 lg:gap-8"
@@ -33,4 +33,9 @@
   {:else}
     <ThankYou on:continue={onContinue} />
   {/if}
+
+  <div class="mt-auto lg:absolute bottom-2 left-0 w-full text-center px-6 pt-12 text-neutral-dark-gray text-sm">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by
+    <a href="https://github.com/AntoineC-dev" class="text-neutral-purple/80">Antoine C</a>.
+  </div>
 </main>
