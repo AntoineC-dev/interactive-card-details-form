@@ -15,6 +15,10 @@
   };
 </script>
 
+<svelte:head>
+  <title>Frontend Mentor | Interactive card details form</title>
+</svelte:head>
+
 <main
   class="flex min-h-screen flex-col lg:flex-row items-center lg:justify-evenly py-6 max-w-screen-2xl mx-auto w-full relative"
 >

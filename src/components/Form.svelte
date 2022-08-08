@@ -42,7 +42,7 @@
   </div>
   <!-- Exp Date -->
   <div class="form-group col-span-1">
-    <label for="card_exp" class="form-label">Exp. Date (MM/YY)</label>
+    <span class="form-label">Exp. Date (MM/YY)</span>
     <div id="card_exp" class="grid grid-cols-2 gap-2">
       <!-- Exp month -->
       <input
