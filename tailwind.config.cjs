@@ -22,6 +22,9 @@ module.exports = {
       fontFamily: {
         sans: ["Space\\ Grotesk", ...defaultTheme.fontFamily.sans],
       },
+      gridTemplateColumns: {
+        homepage: "1fr minmax(1fr, 1280px) 1fr",
+      },
     },
   },
   plugins: [],
