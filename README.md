@@ -1,4 +1,4 @@
-# Frontend Mentor - Swipable Todo App (Svelte/TailwindCss/localStorage)
+# Frontend Mentor - Interactive card details w/ Reactive form
 
 This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
 
