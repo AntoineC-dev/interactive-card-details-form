@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Interactive Card Details Form | Desktop version](./fullpage-desktop.jpeg)
+![Interactive Card Details Form | Desktop version](./fullpage-desktop.png)
 
-![Interactive Card Details Form | Mobile version](./fullpage-mobile.jpeg)
+![Interactive Card Details Form | Mobile version](./fullpage-mobile.png)
 
 ### Links
 
